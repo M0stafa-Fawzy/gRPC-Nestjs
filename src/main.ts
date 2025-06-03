@@ -18,6 +18,6 @@ async function bootstrap() {
     }),
   );
   await app.listen();
-  console.log('gRPC microservice is running');
+  console.log('gRPC microservice is running!!');
 }
 bootstrap();
